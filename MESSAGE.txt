@@ -1,0 +1,11 @@
+A little bit about me
+I am a coding instructor for The Coder School (Cerritos location) 
+I code every single day; after talking to a mentor he reccomended I allow Git Hub reflect my activity. 
+From now on I will be showing my activity through Git Hub, a lot of my previous projects will be posted here and all future projects can also be found here
+
+This Tic-Tac-Toe game is the first single-player version I have created, a student challenged me by asking if that was something we could do and this is 
+what I came up with. Hope you enjoy and please let me criticize if needed, Thank you!
+
+
+
+Martin Barrios. 
